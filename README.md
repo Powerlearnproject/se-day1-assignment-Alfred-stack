@@ -49,15 +49,20 @@ To briefly elucidate, the requirement analysis is the first phase of SDLC. It in
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+
 According to the Atlassian blog, Waterfall methodology was originally coined by the computer scientist Winston Royce in his 1970 research paper, "Managing the Development of Large Software Systems" (Royce, 1987). Conversely, Senarath (2021) maintains that selecting a suitable method when undertaking a project can be a difficult decision. Therefore, the waterfall methodology aligns with methodologies utilized in project management. 
 
 Waterfall methodology can be defined as a thorough linear and sequential approach where each phase must be completed before the next phase begins. following the illustration of the cascading downward visual representation of the waterfall, this methodology sequentially passes through five stages: requirements, design, implementation, verification, and maintenance). Atlassian.
 Real-life scenarios where waterfall methodology can be applied include construction, software development, and manufacturing projects. Santiago (2022) describes an effective use of the waterfall methodology in implementing library projects. The structured use of this methodology can help library administrators ensure the efficient use of resources for project completion and also set up the project's environment.
 
+Conversely, Agile methodology is a group of software development methods that allow iteration and incremental development. According to Kumar and Bhatia (2012), the difference between Waterfall methodology and Agile methodology is significant. While both have their advantages and disadvantages, Agile stands out for its flexibility, collaboration, and customer feedback. In contrast, Waterfall remains stringent in its step-by-step process, which can limit adaptability and responsiveness to change.
+
+Furthermore, Agile methodology is widely used for various industry projects as a lightweight development method that can satisfy changing requirements, Kumar and Bhatia (2012). An example of the application of Agile methodology is building a mobile app for a start-up where user feedback will continually shape ongoing development. 
 
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
@@ -89,11 +94,13 @@ Del Águila IM, Palma J, Túnez S. Milestones in software engineering and knowle
 
 É. Germain and P. N. Robillard,(2005) "Engineering-based processes and agile methodologies for software development: a comparative case study," Journal of Systems and Software, vol. 75, no. 1–2, pp. 17–27, doi: 10.1016/j.jss.2004.02.022.
 
-E.O. Nwachukwu (2012), "Information System Development", Oyas Bee Enterprises. 
+E.O. Nwachukwu (2012), "Information System Development," Oyas Bee Enterprises. 
 
 Ibrahim Ali Mohammed (2020), "Critical Analysis on the Impact of Software Engineering in the Technological Industry, Vol 7, Issue 4, IJRaR 
 
 Implementing DevOps Lifecycle Phases During Application Development - AR Daily Magazine. Available at: https://ardailymagazine.com/implementing-devops-lifecycle-phases-during-application-development/, [Accessed: 2 September 2024]
+
+Kumar, G. and Bhatia, P.K., 2012. "Impact of agile methodology on software development process." International Journal of Computer Technology and Electronics Engineering (IJCTEE), 2(4), pp.46-50.
 
 Meeting at UNESCO to celebrate five years of Software Heritage – Software Heritage. https://www.softwareheritage.org/2021/12/16/swh-community-meets-at-unesco/
 
