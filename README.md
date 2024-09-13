@@ -63,7 +63,15 @@ Furthermore, Agile methodology is widely used for various industry projects as a
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+Several key team members must be present to tackle the challenges associated with producing software, such as compromising quality. However, it is suggested that "not all teams require engineers, but these three 'Software Developers', 'Quality Assurance Engineers,' and 'Project Managers' are important to the successful creation of software, and the roles and responsibilities of each team member include.
 
+1. Software Developer: These team members are responsible for the software and technology necessary for building and developing systems and applications using engineering principles and programming languages. They write, test, and maintain the codes used to create software. However, they are also responsible for implementing the software design and fixing bugs.
+
+2. Quality Assurance Engineer (QAE): According to Heera (2024), the QAE is responsible for testing software products throughout the development process. They ensure that the software created is high quality through various testing methods. However, their roles also involve maintenance because they identify defects and verify they are fixed before release.
+
+3. Project Manager (PM): The PM is also an essential part of the SE team because these individuals manage the project timeline and resources and maintain adequate communication throughout the project phases. In short, the PM oversees the entire project, focusing on scope, schedule, and budget.
+
+   
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
