@@ -63,11 +63,11 @@ Furthermore, Agile methodology is widely used for various industry projects as a
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-Several key team members must be present to tackle the challenges associated with producing software, such as compromising quality. However, it is suggested that "not all teams require engineers, but these three 'Software Developers', 'Quality Assurance Engineers,' and 'Project Managers' are important to the successful creation of software, and the roles and responsibilities of each team member include.
+Several key team members must be present to tackle the challenges associated with producing software, such as compromising quality. However, it is suggested that "not all teams require engineers, but these three 'Software Developers', 'Quality Assurance Engineers,' and 'Project Managers' are important to the successful creation of software, and the roles and responsibilities of each team member include. Águila (2014)
 
 1. Software Developer: These team members are responsible for the software and technology necessary for building and developing systems and applications using engineering principles and programming languages. They write, test, and maintain the codes used to create software. However, they are also responsible for implementing the software design and fixing bugs.
 
-2. Quality Assurance Engineer (QAE): According to Heera (2024), the QAE is responsible for testing software products throughout the development process. They ensure that the software created is high quality through various testing methods. However, their roles also involve maintenance because they identify defects and verify they are fixed before release.
+2. Quality Assurance Engineer (QAE): According to Heera (2024), the QAE is responsible for testing software products throughout development. They ensure that the software created is high quality through various testing methods. However, their roles also involve maintenance because they identify defects and verify they are fixed before release.
 
 3. Project Manager (PM): The PM is also an essential part of the SE team because these individuals manage the project timeline and resources and maintain adequate communication throughout the project phases. In short, the PM oversees the entire project, focusing on scope, schedule, and budget.
 
@@ -75,8 +75,37 @@ Several key team members must be present to tackle the challenges associated wit
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+Integrated Development Environments (IDEs) are comprehensive software suites with various tools essential for software development in a unified platform. One major importance of an IDE is that it helps streamline the development process and improve productivity. Examples of IDEs include Visual Studio Code and Intelligent Idea. These tools include a code editor, compiler, debugger, code formatting, code analyzer, code navigator, etc. 
+
+Version Control Systems (VCS), also known as version control or source control systems, enable tracking and managing changes to a file system. This software utility also offers collaborative utilities to share and integrate file system changes with other VCS users, like software teams.
+In addition, VCS, as mentioned earlier, is vital in collaborative environments like software development systems for managing contributions from multiple team members, avoiding code conflicts, and managing project coherence and progress. Secoda (2024) Therefore, the importance of VCS can be listed as follows;
+
+1. Collaboration
+2. Change tracking
+3. Branching and Merging
+4. Error Recovery
+5. Concurrent Modification
+6. Conflict Resolution
+7. Progress Monitoring
+8. Centralized Control
+
+Examples of VCS include Git and Subversion.
+
+
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
+Developing and launching new software can be complicated. Each step of the development and approval process has many variables. While things can go right, even more can go wrong—and with missteps comes the possibility of returning to square one.
+As frustrating as these obstacles are, there are ways to overcome them without severely hindering your progress. Below are some of the most common issues that arise during a software development project and how teams can solve them.
+
+1. Lack of workflow visibility: This crucial software engineering challenge stems from internal factors within a software development team. It occurs as a result of a vague understanding of the engineering processes within an organization, such as a proper breakdown of software development life cycle (SDLC) processes, lack of communication, and lack of effective team collaboration (Chaudhary, 2024).
+2. Managing Complexity: this challenge occurs due to software growth because it becomes more complex to manage as software grows.
+3. Ensuring code quality: This challenge involves ensuring that the codes written are not of poor quality, which can lead to bugs and maintenance issues.
+4. Scalability, security, and performance challenges: in SE, a software application must always be designed for scalability, security, and re-usability. These are fundamental concepts that should be applied in the SE production process. However, some engineers have different expertise and coding styles, which may not be convenient for their colleagues; for instance, some engineers would not properly comment on their codes, which would make it difficult for their colleagues to understand what their thought process was when writing the code and can affect re-usability.
+In addition, inappropriate access management can also lead to security vulnerabilities; on the other hand, poor infrastructure configuration can also lead to performance and scalability challenges. Chaudhary (2024).
+5. Communication Breakdowns: The lack of communication can not be overstated because every software development team requires a team to collaborate to address consumer needs. Therefore, effective communication can enable every member to know a project's coding strategy, objectives, and goals. Other challenges include unrealistic or mismanaged timelines, prioritization of tasks, feature overload, lack of alignment between sponsor and user needs, underestimating the task at hand, and Not pinpointing the real 'Why', amongst others.
+
+Improving these challenges includes defining coding standards to write scalable code, using security testing tools and platforms to improve security, investing in tools that empower decision-making processes such as project management tools, implementing modular design, and adhering to coding standards to manage software complexity.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -94,15 +123,17 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 
 References 
 
-Atlassian, "Waterfall Methodology: A Comprehensive Guide" Available at: "https://www.atlassian.com/agile/project-management/waterfall-methodology#:~:text=What%20is%20the%20Waterfall%20methodology,%2C%20verification%2C%20and%20maintenance)." [Accessed: 2 September, 2024].
+Atlassian, "Waterfall Methodology: A Comprehensive Guide" Available at: "https://www.atlassian.com/agile/project-management/waterfall-methodology#:~:text=What%20is%20the%20Waterfall%20methodology,%2C%20verification%2C%20and%20maintenance)." [Accessed: 2 September 2024].
 
 Crespo-Santiago, C.A. and Dávila-Cosme, S.D.L.C., 2022. "Waterfall method: a necessary tool for implementing library projects." HETS Online J, 1(2), pp.81-92.
 
-Del Águila IM, Palma J, Túnez S. Milestones in software engineering and knowledge engineering history: a comparative review. ScientificWorldJournal. 2014 Jan 27;2014:692510. doi: 10.1155/2014/692510. PMID: 24624046; PMCID: PMC3927817.
+del Águila, I. M., Palma, J., & Túnez, S. (2014). "Milestones in software engineering and knowledge engineering history: a comparative review." TheScientificWorldJournal, 692510. Doi: https://doi.org/10.1155/2014/692510.
 
 É. Germain and P. N. Robillard,(2005) "Engineering-based processes and agile methodologies for software development: a comparative case study," Journal of Systems and Software, vol. 75, no. 1–2, pp. 17–27, doi: 10.1016/j.jss.2004.02.022.
 
 E.O. Nwachukwu (2012), "Information System Development," Oyas Bee Enterprises. 
+
+Heera P (2024), "Roles and Responsibilities of QA in Software Development," Available at: "https://www.qatouch.com/blog/roles-and-responsibilities-of-qa-in-software-development/" [Accessed 5th September 2024]
 
 Ibrahim Ali Mohammed (2020), "Critical Analysis on the Impact of Software Engineering in the Technological Industry, Vol 7, Issue 4, IJRaR 
 
@@ -114,9 +145,11 @@ Meeting at UNESCO to celebrate five years of Software Heritage – Software Heri
 
 Ncube (2023), "Why is Software Engineering Important?", Available at: "https://ncube.com/why-is-software-engineering important#:~:text=Software%20engineering%20is%20transforming%20the,processes%2C%20and%20driving%20greater%20efficiency." [Accessed: 21 August 2024].
 
-Royce, W.W., 1987, March. "Managing the development of large software systems: concepts and techniques." In Proceedings of the 9th international conference on Software Engineering (pp. 328-338).
+Royce, W.W., 1987, March. "Managing the development of large software systems: concepts and techniques." In Proceedings of the 9th International Conference on Software Engineering (pp. 328-338).
 
 Sachin Bhatnagar (2024), "The Importance of Software Engineering [Top 6 Reasons]" Available at: "https://www.knowledgehut.com/blog/web-development/importance-of-software-engineering," [Accessed: 21 August 2024].
+
+Secoda (2024), "What is the importance of version control in software development?" Available at: "https://www.secoda.co/glossary/version-control#:~:text=Version%20control%20in%20data%20science,to%20datasets%2C%20enhancing%20data%20integrity." [Accessed 7th September 2024].
 
 Senarath, U.S., 2021. "Waterfall methodology, prototyping, and agile development." Tech. Rep., pp.1-16.
 
