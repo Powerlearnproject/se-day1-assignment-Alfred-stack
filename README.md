@@ -127,16 +127,27 @@ However, in general, each test serves its purpose in identifying defects at diff
 
 
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
+
+Amazon defines prompt engineering by breaking down each concept. For instance, a prompt is a natural language that requests generative AI to perform a specific task, while prompt engineering involves the continuous refinement of prompts until the desired outcomes from the AI system are achieved. Amazon Blog (2024).
+Prompt engineering is important because it includes improved user experience and control and increased flexibility.
+
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
+Vague prompt: "Tell me about Machine Learning"
+Improved Prompt: "Explain the various types of Machine Learning Techniques and provide a detailed definition of Machine learning."
+
+Explanation: the improved prompt is more specific and clear because, unlike the vague prompt, "Machine learning" is a broad concept, and requesting the Generative AI to tell you about machine learning will result in an ambiguous explanation. However, by providing the improved prompt that guides AI to provide a detailed and relevant response, such ambiguity will be eliminated, and make the output more useful and streamlined for the user.
+
+
+
 
 
 References 
+
+Amazon (2024), "What is Prompt Engineering", Avaliable at: "https://aws.amazon.com/what-is/prompt engineering/#:~:text=Prompt%20engineering%20makes%20it%20easy,intention%20even%20with%20minimal%20input."
 
 Atlassian, "Waterfall Methodology: A Comprehensive Guide" Available at: "https://www.atlassian.com/agile/project-management/waterfall-methodology#:~:text=What%20is%20the%20Waterfall%20methodology,%2C%20verification%2C%20and%20maintenance)." [Accessed: 2 September 2024].
 
