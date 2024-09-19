@@ -110,6 +110,21 @@ Improving these challenges includes defining coding standards to write scalable 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+Alongside the software development process there lies the software testing and its procedures, these testing levels can be distinguished into unit testing, integrating testing, system testing, and user acceptance testing (TM).
+
+1. Unit testing involves testing individual components or functions in isolation to ensure they work as intended. Unit testing is usually performed at the early stage of the development process by the engineers themselves and not the team. 
+The importance of unit testing includes the early detection of bugs in the development process before they become more difficult and expensive to fix, as well as ensuring modularization of code for better understanding and maintainability. 
+
+2. System testing is performed by a highly professional team that includes Business analysts, product owners, and Manual QA in an environment as close to the real business use scenario as possible, According to Geeks for Geeks (2024) this software testing is the test that evaluates the total functionality and performance of the fully functional software solution.
+
+3. User Acceptance Testing (UAT) or End-to-End tests:
+This process involves validating the product against the end users' requirements. This is also considered the last stage of the testing process that ensures customers' expectations are met, verifying the acceptance tests on the stories and the features. 
+The importance of this test lies in the fact that the UAT helps the team decide if the product is ready to be shipped or not. 
+
+4. Acceptance testing involves validating the software with real-life scenarios which is almost similar to beta testing where the software is issued to the public to use and return feedback to enable the team to ensure that it meets the end-user's needs and is ready for deployment. 
+
+However, in general, each test serves its purpose in identifying defects at different stages of development, ensuring that the final product is ready for use. 
+
 
 #Part 2: Introduction to AI and Prompt Engineering
 
@@ -132,6 +147,8 @@ del Águila, I. M., Palma, J., & Túnez, S. (2014). "Milestones in software engi
 É. Germain and P. N. Robillard,(2005) "Engineering-based processes and agile methodologies for software development: a comparative case study," Journal of Systems and Software, vol. 75, no. 1–2, pp. 17–27, doi: 10.1016/j.jss.2004.02.022.
 
 E.O. Nwachukwu (2012), "Information System Development," Oyas Bee Enterprises. 
+
+Geeks for Geeks (2024), "Types of Software Testing", Avaliable at: "https://www.geeksforgeeks.org/types-software-testing/"
 
 Heera P (2024), "Roles and Responsibilities of QA in Software Development," Available at: "https://www.qatouch.com/blog/roles-and-responsibilities-of-qa-in-software-development/" [Accessed 5th September 2024]
 
